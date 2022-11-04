@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudeepsinghvi
-- 👀 I’m interested in organising Bootcamps/ Workshops for Developers
+- 👀 I’m interested in organising Bootcamps/ Workshops/ Other Tech Events for Developers @myowncity
 - 🌱 I’m currently learning DataScience and Blockchain
 - 💞️ I’m looking to collaborate on php, python, javascript and many more :)
 - 📫 You can reach me via: sudeep_singhvi@hotmail.com
